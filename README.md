@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Mita Wikantari**.<br>
+
+Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).<br>
