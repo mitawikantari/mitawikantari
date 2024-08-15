@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Mita Wikantari**.<br>
 
-Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Bootcamp Student** di [Dicoding](https://www.dicoding.com/).<br>
 
 ### Github Statistic
 <p align="left">
